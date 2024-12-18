@@ -1,4 +1,4 @@
-// 6  Spread med arrayer (2p)
+// Fråga 4 (2p) Spread med arrayer 
   // Skapa en funktion 'combineArrays' som tar emot två arrayer som argument
   // och använder spread operatorn för att kombinera dem till en enda array.
   // Returnera den nya arrayen

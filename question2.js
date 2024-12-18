@@ -1,4 +1,5 @@
-// 2.1 (1p) Skapa ett nytt object car2 med spread operatorn ...
+// Fråga 2.1 (1p) 
+// Skapa ett nytt object car2 med spread operatorn ...
 // Det nya objektet ska updatera speed till 200.
 
 const car = {
@@ -8,8 +9,10 @@ const car = {
 
 // Din kod här:
 
-  
-// 2.2 (1p) Skapa två variabler name och speed genom
+
+
+// Fråga 2.2 (1p) 
+// Skapa två variabler name och speed genom
 // destructuring av objektet car.
 
 // Din kod här:

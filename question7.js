@@ -1,34 +1,34 @@
-// 4.1 (3p) Skriv klart funktionen updatePeople
-// som lägger till en property:
-// adult: true
-// om personen i arrayen är 18 år eller över annars
-// en property:
-// adult: false
-// funktionen ska returnera den uppdaterade arrayen.
-// Använd map och spread operator.
+// Fråga 7.1 (2p) 
+// Funktionen updatePeople ska returnera en ny array med alla personer i arrayen people
+// fast med en ny property: 
+      // adult: true om personen är 18 år eller över 
+      // annars adult: false
+// Använd dig av map och spread operator.
 
 const people = [
-    { name: "Alice", age: 30 },
-    { name: "Bob", age: 15 },
-    { name: "Charlie", age: 35 },
-    { name: "Fred", age: 19 },
-    { name: "Alice", age: 6 },
-  ];
-  
-  function updatePeople(people) {
-    // Din kod här:
-  
+  { name: "Alice", age: 30 },
+  { name: "Bob", age: 15 },
+  { name: "Charlie", age: 35 },
+  { name: "Fred", age: 19 },
+  { name: "Alice", age: 6 },
+];
 
-  }
-  
-// 4.2 (2p) Skriv klart funktionen getAdults med arrayen som returneras från 
-// updatePeople som input och som returnerar en array med bara vuxna (adult: true).
+function updatePeople(people) {
+  // Din kod här:
+
+
+
+}
+
+// Fråga 7.2 (2p) 
+// Skriv klart funktionen getAdults med arrayen som returneras från updatePeople som input 
+// och som returnerar en array med bara vuxna (adult: true).
 // Använd filter.
 
 function getAdults(adult) {
-    // Din kod här:
+  // Din kod här:
 
-  }
+}
 
 
 // Test
